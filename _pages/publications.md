@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Publications
 
 ### 대형 언어 모델을 활용한 퓨샷 추론 문제의 데이터 증강
