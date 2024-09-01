@@ -17,8 +17,9 @@ Personal Details
 
 Education
 ======
-* B.S. in GIST, 2018.03. ~ present
-    - Major: Electrical Engineering and Computer Science
+* High Schoole: Busanil Science High School, 2016.03. ~ 2018.02.
+* B.S. in GIST, 2018.03. ~ 2024.02.
+  - Major: Electrical Engineering and Computer Science
 
 
 Research Interests
@@ -26,10 +27,9 @@ Research Interests
   * Big Data Analysis
   * Data Modeling
   * Machine Learning
-  * Reinforcement learning
 
 
 Skills
 ======
-* Programming Languages: C, Python
+* Programming Languages: Python, C, javascript
 * Languages: Korean (Native), English (TOEIC:935/990)
