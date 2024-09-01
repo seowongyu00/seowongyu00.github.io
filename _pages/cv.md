@@ -17,7 +17,7 @@ Personal Details
 
 Education
 ======
-* High Schoole: Busanil Science High School, 2016.03. ~ 2018.02.
+* High School: Busanil Science High School, 2016.03. ~ 2018.02.
 * B.S. in GIST, 2018.03. ~ 2024.02.
   - Major: Electrical Engineering and Computer Science
 
