@@ -4,3 +4,5 @@ main:
     url: /cv/
   - title: "Publications"
     url: /publications/
+  - title: "Secret"
+    url: /publications/
