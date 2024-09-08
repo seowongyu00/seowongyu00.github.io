@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV - Wongyu Seo"
+title: "Wongyu Seo"
 permalink: /cv/
 author_profile: true
 redirect_from:
