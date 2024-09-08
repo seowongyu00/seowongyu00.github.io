@@ -86,7 +86,7 @@ author:
   location         : "Seoul, South Korea"
   employer         :
   pubmed           :
-  googlescholar    : "citations?view_op=list_works&hl=ko&user=GOjUpAsAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=ko&user=GOjUpAsAAAAJ"
   email            : "seowongyu@gm.gist.ac.kr"
   researchgate     : 
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "seo0000"
-  orcid            : "0009-0003-8982-1031"
+  orcid            : "https://orcid.org/0009-0003-8982-1031"
   pinterest        :
   soundcloud       :
   stackoverflow    :
