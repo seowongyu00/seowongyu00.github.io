@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Secret"
+permalink: /secret/
+author_profile: true
+---
+
+
 # 🌟 Welcome to Lemon Community 🌟
 
 **Explore the best of our community!**
