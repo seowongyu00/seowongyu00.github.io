@@ -9,23 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-# Personal Details
+## Personal Details
 * Name: Seo, Wongyu
 * Nationality: Korean
 * Email: seowongyu@gm.gist.ac.kr
 
-## Education
+### Education
 * High School: Busanil Science High School, 2016.03. ~ 2018.02.
 * B.S. in GIST, 2018.03. ~ 2024.02.
   - Major: Electrical Engineering and Computer Science
 
-## Research Interests
+### Research Interests
 * Big Data Analysis
 * Data Modeling
 * Machine Learning
 
-## Skills
+### Skills
 * Programming Languages: Python, C, JavaScript
 * Languages: Korean (Native), English (TOEIC:935/990)
 
-## Work Experience
+### Work Experience
