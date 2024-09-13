@@ -14,7 +14,3 @@ I graduated with a degree in Computer Engineering and during my university years
 My work involves analyzing complex financial data to predict credit risk, providing actionable insights to help businesses make informed decisions. With a solid foundation in data-driven methodologies, I aim to contribute to innovative solutions in the financial sector, specifically in managing risk and improving credit evaluation processes.
 
 Thank you.
-
----
-
-이렇게 링크를 연결해서 사용할 수 있습니다.
