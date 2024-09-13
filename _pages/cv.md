@@ -41,7 +41,7 @@ Excel
 PowerPoint  
 ![50%](https://via.placeholder.com/250x10/99CC99/99CC99)  
     
-* ETC: Javascript, C, Pytorch ...
+* Et cetera: Javascript, C, Pytorch ...
 
 ### Certifications
 - Passed CAM Exam intermediate level
