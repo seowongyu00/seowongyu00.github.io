@@ -12,9 +12,8 @@ redirect_from:
 <style>
 /* Define the color palette */
 :root {
-  --dark-green: #003B49; /* BCG의 짙은 초록 */
-  --green: #005B77;     /* BCG의 초록 */
-  --light-green: #0091A1; /* BCG의 옅은 초록 */
+  --dark-green: #147B58	;
+  --green: #16c78b;
 }
 
 h1, h2, h3 {
@@ -23,14 +22,6 @@ h1, h2, h3 {
 
 p, li {
   color: var(--green); /* 일반 텍스트에 초록 */
-}
-
-a {
-  color: var(--light-green); /* 링크에 옅은 초록 */
-}
-
-a:hover {
-  color: var(--dark-green); /* 링크에 마우스 오버 시 짙은 초록 */
 }
 </style>
 
