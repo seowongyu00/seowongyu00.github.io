@@ -29,3 +29,4 @@ redirect_from:
 * Languages: Korean (Native), English (TOEIC:935/990)
 
 ### Work Experience
+* Credit Risk Consulting at Kodata, 2024.09.23 ~

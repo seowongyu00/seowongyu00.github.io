@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I graduated with a degree in Computer Engineering and during my university years, I conducted research related to ARC at the Data Science lab of the AI Graduate School. Currently, I am focused on research in the field of Data Science. My work involves analyzing and interpreting data to derive meaningful insights and addressing real-world problems based on these insights.
+I graduated with a degree in Computer Engineering and during my university years, I conducted research related to ARC at the Data Science lab of the AI Graduate School. Currently, I am working in the field of credit risk consulting at Kodata, where I leverage data analysis and machine learning techniques to assess and manage financial risk.
 
-With a strong foundation in data analysis and artificial intelligence, I aim to contribute to data-driven problem-solving. I look forward to advancing innovative solutions in the field of Data Science through ongoing research and development.
+My work involves analyzing complex financial data to predict credit risk, providing actionable insights to help businesses make informed decisions. With a solid foundation in data-driven methodologies, I aim to contribute to innovative solutions in the financial sector, specifically in managing risk and improving credit evaluation processes.
 
 Thank you.
+
