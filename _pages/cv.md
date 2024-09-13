@@ -9,11 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+/* Define the color palette */
+:root {
+  --dark-green: #003B49; /* BCG의 짙은 초록 */
+  --green: #005B77;     /* BCG의 초록 */
+  --light-green: #0091A1; /* BCG의 옅은 초록 */
+}
+
+h1, h2, h3 {
+  color: var(--dark-green); /* 제목에 짙은 초록 */
+}
+
+p, li {
+  color: var(--green); /* 일반 텍스트에 초록 */
+}
+
+a {
+  color: var(--light-green); /* 링크에 옅은 초록 */
+}
+
+a:hover {
+  color: var(--dark-green); /* 링크에 마우스 오버 시 짙은 초록 */
+}
+</style>
+
 ## Personal Details
 * Name: Seo, Wongyu
 * Nationality: Korean
 * Email: seowongyu@gm.gist.ac.kr
-* Languages: Korean (Native), English (TOEIC:935/990)
+* Languages: Korean (Native), English (TOEIC: 935/990)
 
 ### Work Experience
 * Administrative Clerk at Republic of Korean Air Force, '21.01 ~ '22.10
