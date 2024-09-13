@@ -9,22 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<style>
-/* Define the color palette */
-:root {
-  --dark-green: #147B58	;
-  --green: #16c78b;
-}
-
-h1, h2, h3 {
-  color: var(--dark-green); /* 제목에 짙은 초록 */
-}
-
-p, li {
-  color: var(--green); /* 일반 텍스트에 초록 */
-}
-</style>
-
 ## Personal Details
 * Name: Seo, Wongyu
 * Nationality: Korean
