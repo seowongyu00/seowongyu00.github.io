@@ -14,13 +14,13 @@ redirect_from:
 * Nationality: Korean
 * Email: seowongyu@gm.gist.ac.kr
 
+### Work Experience
+* Credit Risk Consulting at KoDATA, 2024.09.23 ~
+
 ### Education
 * High School: Busanil Science High School, 2016.03. ~ 2018.02.
 * B.S. in GIST, 2018.03. ~ 2024.02.
   - Major: Electrical Engineering and Computer Science
-
-### Work Experience
-* Credit Risk Consulting at KoDATA, 2024.09.23 ~
 
 ### Research Interests
 * Big Data Analysis
