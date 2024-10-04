@@ -16,17 +16,17 @@ redirect_from:
 * Languages: Korean (Native), English (TOEIC: 935/990)
 
 ### Work Experience
-* Administrative Clerk at Republic of Korean Air Force, '21.01. ~ '22.10.
+* Administrative Clerk at Republic of Korean Air Force, Jan. 2021 – Oct. 2022
   - Battalion Budget & Human Resource Management
-* Credit Risk Consultant at KoDATA, '24.09. ~
+* Credit Risk Consultant at KoDATA, Sept. 2024 – Present
 
 ### Education
-* High School: Busanil Science High School, '16.03. ~ '18.02.
-* B.S. in GIST, '18.03. ~ '24.02.
+* High School: Busanil Science High School, Mar. 2016 – Feb. 2018
+* B.S. in GIST, Mar. 2018 – Feb. 2024
   - Major: Electrical Engineering and Computer Science
   - Undergraduate Research Internship in Data Science LAB
 
-### SKILLS
+### Skills
 Python  
 ![75%](https://via.placeholder.com/500x10/99CC99/99CC99)  
 SQL  
