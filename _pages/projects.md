@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## IBK, Credit Rating Modeling and Early Warning Systems  
 November 2024 – Present
 
