@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
-
 ### 대형 언어 모델을 활용한 퓨샷 추론 문제의 데이터 증강
 * **Authors**: Wongyu Seo, Woochang Sim, Sundong Kim
 * **Link**: [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705093)
