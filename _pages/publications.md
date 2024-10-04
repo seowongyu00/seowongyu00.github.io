@@ -16,5 +16,5 @@ author_profile: true
 * **Link**: [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705093)
 
 ### Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus
-* **Authors**: Seungpil Lee, Woochang Sim, Donghyeon Shin, Sanha Hwang, Wongyu Seo, Jiwon Park, Seokki Lee, Sejin Kim, Sundong Kim
+* **Authors**: Seungpil Lee, Woochang Sim, Donghyeon Shin, Wongyu Seo, Jiwon Park, Seokki Lee, Sanha Hwang, Sejin Kim, Sundong Kim
 * **Link**: [arXiv](https://arxiv.org/abs/2403.11793)
