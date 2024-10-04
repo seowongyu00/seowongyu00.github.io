@@ -48,3 +48,4 @@ PowerPoint
 * Big Data Analysis
 * Data Modeling
 * Machine Learning
+* Explainable AI
