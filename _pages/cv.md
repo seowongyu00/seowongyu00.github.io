@@ -12,8 +12,7 @@ redirect_from:
 ## Personal Details
 * Name: Seo, Wongyu
 * Nationality: Korean
-* Email: seowongyu@gm.gist.ac.kr
-* Languages: Korean (Native), English (TOEIC: 935/990)
+* Languages: Korean (Native), English (TOEIC: 935/990, Expired)
 
 ### Work Experience
 * Administrative Clerk at Republic of Korean Air Force, Jan. 2021 – Oct. 2022
@@ -50,3 +49,8 @@ PowerPoint
 * Data Modeling
 * Machine Learning
 * Explainable AI
+
+### Awards
+* Outstanding Paper Presentation Award, Korea Information Science Society, Feb. 2024  
+  - Affiliation: Gwangju Institute of Science and Technology (GIST)
+  - Paper: 대형 언어 모델을 활용한 퓨샷 추론 문제의 데이터 증강 (2023 KSC)
