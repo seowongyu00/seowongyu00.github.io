@@ -17,8 +17,8 @@ redirect_from:
 ### Work Experience
 * Administrative Clerk at Republic of Korean Air Force, Jan. 2021 – Oct. 2022
   - Battalion Budget & Human Resource Management
-* Credit Risk Consultant at KoDATA, Sept. 2024 – Present
-  - Finance Consulting Dept.
+* Credit Risk Consultant at Korea Rating & Data (KoDATA), Sept. 2024 – Present
+  - Financial Consulting Business Dept.
 
 ### Education
 * High School: Busanil Science High School, Mar. 2016 – Feb. 2018
