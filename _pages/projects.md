@@ -9,7 +9,7 @@ author_profile: true
 
 Nov. 2024 – Dec. 2024  
 
-Conducted third-party verification of credit risk models, including Probability of Default (PD) models for card companies and loan portfolios for banks, ensuring accuracy, compliance, and reliability in risk assessments across the financial group.
+Performed third-party verification of Hana Financial Group's internal credit risk rating system (IRB) and internal capital adequacy assessment process (ICAAP), ensuring compliance with regulatory standards and enhancing the reliability of their risk management framework.
 
 ## IBK, Credit Rating Modeling and Early Warning Systems  
 
