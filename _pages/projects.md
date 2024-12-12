@@ -9,7 +9,7 @@ author_profile: true
 
 Nov. 2024 – Dec. 2024  
 
-Performed third-party verification of Hana Financial Group's internal credit risk rating system (IRB) and internal capital adequacy assessment process (ICAAP), ensuring compliance with regulatory standards and enhancing the reliability of their risk management framework.
+Conducted third-party verification of Hana Financial Group's internal credit risk rating system (IRB), internal capital adequacy assessment process (ICAAP), and adherence to the Principles for Sound Management of Operational Risk (PSMOR). Ensured compliance with regulatory standards and enhanced the reliability of their risk and operational management frameworks.
 
 ## IBK, Credit Rating Modeling and Early Warning Systems  
 
