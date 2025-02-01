@@ -15,4 +15,4 @@ Conducted third-party verification of Hana Financial Group's internal credit ris
 
 Dec. 2024 – Present (Expected)
 
-Developed early warning systems for Industrial Bank of Korea (IBK) using Explainable AI (XAI) techniques. These models provide transparent, interpretable insights, helping the bank better manage financial risks and make informed decisions.
+Developed ML-based early warning models for Industrial Bank of Korea (IBK), providing transparent and interpretable insights that help the bank effectively manage financial risks and make data-driven decisions.

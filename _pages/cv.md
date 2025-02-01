@@ -17,7 +17,7 @@ redirect_from:
 ### Work Experience
 * Administrative Clerk at Republic of Korean Air Force, Jan. 2021 – Oct. 2022
   - Battalion Budget & Human Resource Management
-* Credit Risk Consultant at Korea Rating & Data (KoDATA), Sept. 2024 – Present
+* Credit Risk Consultant at Korea Rating & Data (KoDATA), Sep. 2024 – Present
   - Financial Consulting Business Dept.
 
 ### Education
@@ -28,13 +28,9 @@ redirect_from:
 
 ### Skills
 Python  
-![75%](https://via.placeholder.com/500x10/99CC99/99CC99)  
 SQL  
-![60%](https://via.placeholder.com/350x10/99CC99/99CC99)  
 Excel  
-![65%](https://via.placeholder.com/400x10/99CC99/99CC99)  
 PowerPoint  
-![50%](https://via.placeholder.com/250x10/99CC99/99CC99)  
     
 * Et cetera: Javascript, C, Pytorch ...
 
