@@ -25,13 +25,13 @@ redirect_from:
 * B.S. in GIST, Mar. 2018 – Feb. 2024
   - Major: Electrical Engineering and Computer Science
   - Undergraduate Research Internship in Data Science LAB
+  - Study Abroad Program (UC Berkeley) / Jun.2019 – AUG.2019
 
 ### Skills
 Python  
 SQL  
-Excel  
-PowerPoint  
-    
+SAS
+
 * Et cetera: Javascript, C, Pytorch ...
 
 ### Certifications

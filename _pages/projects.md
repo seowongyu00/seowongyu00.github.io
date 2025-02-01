@@ -13,6 +13,6 @@ Conducted third-party verification of Hana Financial Group's internal credit ris
 
 ## IBK, Credit Rating Modeling and Early Warning Systems  
 
-Dec. 2024 – Present (Expected)
+Dec. 2024 – Present
 
 Developed ML-based early warning models for Industrial Bank of Korea (IBK), providing transparent and interpretable insights that help the bank effectively manage financial risks and make data-driven decisions.
