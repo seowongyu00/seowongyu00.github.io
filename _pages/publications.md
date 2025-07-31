@@ -17,4 +17,4 @@ author_profile: true
 
 ### Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus
 * **Authors**: Seungpil Lee, Woochang Sim, Donghyeon Shin, Wongyu Seo, Jiwon Park, Seokki Lee, Sanha Hwang, Sejin Kim, Sundong Kim
-* **Link**: [arXiv](https://dl.acm.org/doi/10.1145/3712701)
+* **Link**: [ACM Journals](https://dl.acm.org/doi/10.1145/3712701)
