@@ -15,4 +15,4 @@ Conducted third-party verification of Hana Financial Group's internal credit ris
 
 Dec. 2024 – Jul. 2025
 
-Developed machine learning–based early warning models for Industrial Bank of Korea (IBK), delivering transparent and interpretable insights to support proactive financial risk management. Additionally, designed a retraining framework to ensure model stability and adaptability in dynamic market conditions.
+Developed machine learning–based early warning models for Industrial Bank of Korea (IBK) to identify financially vulnerable corporate borrowers at an early stage, enabling proactive risk mitigation and enhanced credit portfolio management. The models prioritized transparency and interpretability to ensure alignment with internal risk policies and regulatory expectations. In addition, designed a systematic model retraining and monitoring framework to maintain long-term stability and predictive performance, allowing the models to adapt reliably to evolving economic and market conditions.
