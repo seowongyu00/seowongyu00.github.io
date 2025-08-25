@@ -19,6 +19,6 @@ Developed machine learning–based early warning models for Industrial Bank of K
 
 ## Hana Financial Group, Third-Party Verification  
 
-Aug. 2024 – Sep. 2024  
+Aug. 2025 – Sep. 2025  
 
 Conducted third-party validation of Hana Financial Group’s retail credit risk rating models used in its card business. Assessed model methodology, performance, and regulatory compliance to ensure robustness and transparency, thereby enhancing the reliability of credit risk assessment and supporting sound portfolio management.
