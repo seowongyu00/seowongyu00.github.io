@@ -22,3 +22,9 @@ Developed machine learning–based early warning models for Industrial Bank of K
 Aug. 2025 – Sep. 2025  
 
 Conducted third-party validation of Hana Financial Group’s retail credit risk rating models used in its card business. Assessed model methodology, performance, and regulatory compliance to ensure robustness and transparency, thereby enhancing the reliability of credit risk assessment and supporting sound portfolio management.
+
+## NongHyup (National Agricultural Cooperative Federation, NACF)
+
+Oct. 2025 – Present
+
+Developing a non-financial objectification model as part of the organization’s credit risk modeling initiatives, aiming to enhance the accuracy and fairness of credit evaluations across its financial network.
