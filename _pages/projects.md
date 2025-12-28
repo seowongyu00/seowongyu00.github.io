@@ -25,6 +25,6 @@ Conducted third-party validation of Hana Financial Group’s retail credit risk 
 
 ## NongHyup (National Agricultural Cooperative Federation, NACF)
 
-Oct. 2025 – Present
+Oct. 2025 – Dec. 2025
 
 Developing a non-financial objectification model as part of the organization’s credit risk modeling initiatives, aiming to enhance the accuracy and fairness of credit evaluations across its financial network.
